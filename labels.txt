@@ -1,0 +1,12 @@
+0 Excuse Me
+1 GoodBye
+2 Hello
+3 Help
+4 Need
+5 No
+6 Please
+7 Sad
+8 Sorry
+9 Thank You
+10 Thirsty
+11 Yes
